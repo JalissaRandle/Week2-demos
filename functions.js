@@ -61,6 +61,7 @@ function rollDie(){
 // math.random = gives you a number between 1 and 0  
 // math.floor =  rounds any number down to the nearest Whole number 
 // math.ceiling rounds anynumeber up to the neareats whole #
+// when you type math, make sure it's capital or your function will not work
 
 let roll = rollDie()
 // console.log(roll)
